@@ -1,8 +1,0 @@
-Organisation(Essayer de faire un notebook/jour)
-
-- Comment faire le tuto en notebook(et bien expliquer)
-- Essayer d'apprendre les tutos sur les ML
-- Ensuite faire le notebook sur Dataset Iris et la finir ----> 14/11/2022
-- Utiliser la librairie adéquate 
-- Demain(15/11/2022) estimer le d'un bien
-- Pour finir reconnaître les chiffres(16/11/2022) 
